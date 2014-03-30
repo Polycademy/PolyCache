@@ -18,3 +18,5 @@ Can be used by any language and use any adapter.
 Inpiration: https://github.com/tedivm/Stash/issues/23 Look at all the cool strategies!
 
 Needs to be clusterable, and can support distributed cache. The distributed aspect of cache would be handled by the drivers.
+
+Also use these strategies: http://en.wikipedia.org/wiki/Cache_algorithms
